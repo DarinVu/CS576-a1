@@ -44,5 +44,5 @@ python3 client.py hostname -e|-d message
 ```
 
 Use `localhost` for the hostname when both programs are on the same machine,
-or the server machine's IP address (like `192.168.1.20`) when they are not.
+or the server machine's IP address when they are not.
 
