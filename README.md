@@ -1,6 +1,6 @@
-# CS 576 — Assignment 1: TCP Encode/Decode Server and Client
+# CS 576 — Assignment 1: TCP Server and Client
 
-A TCP server and client written in Python 3, using only the standard library.
+A TCP server and client written in Python 3.
 
 The client sends a message and a flag to the server over a TCP connection. The
 server converts the message and sends it back, and the client prints it.
